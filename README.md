@@ -1,5 +1,5 @@
-# tp-lab-6 [![Build Status](https://app.travis-ci.com/Rigrey/lab04.svg?token=sSjKqXpxzeqqaxAwq5f2&branch=main)](https://app.travis-ci.com/Rigrey/lab04)
-Study of batching tools using CPack as an example.
+# **tp-lab-6** [![Build Status](https://app.travis-ci.com/Rigrey/lab04.svg?token=sSjKqXpxzeqqaxAwq5f2&branch=main)](https://app.travis-ci.com/Rigrey/lab04)
+Study of batching tools using CPack as an example
 
 ## Tutorial
 
